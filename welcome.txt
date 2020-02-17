@@ -1,0 +1,3 @@
+This is a git
+welcome to git
+Git is a SCM tool on more demand in project
