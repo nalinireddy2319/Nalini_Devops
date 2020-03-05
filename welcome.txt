@@ -7,4 +7,6 @@ Last modified
 Nalini github
 Source management tool
 This is a demo for branch and pull request
+Git is light weight
 Compare between git
+
